@@ -1,2 +1,1 @@
-# computer-fundamentals
-Lessons on Operating Systems, Networking and Database Engineering
+# Lessons on Operating Systems, Networking and Database Engineering
